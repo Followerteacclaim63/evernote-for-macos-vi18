@@ -1,4 +1,4 @@
-#  
+#  Evernote for macOS professional Automation - calendar integration and markdown support offers the most advanced Evernote for macOS automation, with calendar integration and
 
 
 
